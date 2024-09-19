@@ -1,0 +1,12 @@
+       ----------instruction----------
+
+    (--) - your ship will be horizontal
+    ( | ) - your ship will be vertical
+                        Its  random
+
+    Enter coords of ship in 'x y' format
+
+    When coords are correct
+    ->start game
+
+

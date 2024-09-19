@@ -1,0 +1,26 @@
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## . /////####### . /##### . /###### . /## . ### . //## . /###### . / . . . . . . . . . . . \/ . . . . . . . . . . . . .  . . . . . . .
+## . /////## . . . . . . ## . . . ## . ## . . . ## . ## . #### . /## . ## . . . . . .  . . . . . . . . \/. . . . . . . . . . . . . . .
+## . /////##### . //####### . ## . //## . ## . ## . ## . ##.## . //## . / . . . . .  . . . . . . . . . . .|> . . . . . . . . . . . . . .
+## . /////## . . . . //## . . . ## . ## . //## . ## . ## . . #### . ## . // . ##  . . . . . . . . . . . . _____|_____
+#######.######.## . //## . ###### . . ## . ## . / . ### . . ###### . .. . . . . . . . . .      \____|____/ . . . . . . . . . . . . . .
+---------------------------------------------------------------------------------------------------------------------
+
+Battleship has been a popular game for generations, having inspired multiple board games, handheld electronic
+versions, computer games, and even a film. However, after all those versions and rule changes, the game is
+still simple enough to be played with only graph paper and pens. In this article, we’ll teach you the rules
+for the classic board game and the old-school graph paper version (plus a few twists to make the game more
+challenging). Stay safe out there on the open seas!
+________________________________________________________________________________
+
+>>Arrange your ships secretly on the bottom half of your matrix so that you and your opponent
+cant see each others boards.
+
+>>To take a <shot> at your opponents ships, input the location on the grid youd like to target
+ out loud (i.e., A 1, d 4).
+
+>>After you take a shot, the other player announces <*> or nothing to signal whether or not their
+ ship was hit. Then, on their turn, do the same as they take shots.
+
+>>A player wins when theyve sunk all of their opponents ships.
+                                                                                                                                                                              *good_luck*
